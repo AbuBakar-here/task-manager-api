@@ -1,3 +1,5 @@
 playground
 node_modules
 config
+# this file was for my own learning
+src/old_index.js
